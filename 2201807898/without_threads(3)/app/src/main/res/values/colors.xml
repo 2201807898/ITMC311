@@ -1,0 +1,4 @@
+<resources>
+    <color name="colorPressed">#FF6200EE</color> <!-- لون الزر عند الضغط (بنفسجي) -->
+    <color name="colorDefault">#FFBB86FC</color> <!-- لون الزر الافتراضي (بنفسجي فاتح) -->
+</resources>
